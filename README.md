@@ -1,5 +1,7 @@
 # rusty_agent_gateway
 
+> **Archived — merged into [Rusty Mill](https://github.com/Rusty-Mill/rusty_mill).** This crate now lives at [`crates/rusty_agent_gateway`](https://github.com/Rusty-Mill/rusty_mill/tree/main/crates/rusty_agent_gateway) in the Rusty Mill monorepo, which is where active development, issues, and pull requests happen now. This standalone repo is kept for historical reference only.
+
 A Rust implementation of the [agentgateway] data plane, built to be a drop-in
 for its configuration file: an existing `config.yaml` should parse and serve
 unmodified.
